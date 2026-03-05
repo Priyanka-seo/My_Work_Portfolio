@@ -2,7 +2,7 @@
 
 Hello! 👋  
 
-This is a collection of my work that shows **what I’ve done in real projects** as well as **demo/case study work** I’ve created to demonstrate my skills.  
+This is a collection of my work that shows **what I’ve done in on job projects** as well as **demo/case study work** I’ve created to demonstrate my skills.  
 
 Here, you’ll see:
 - Hands-on 3RI projects with actual results
