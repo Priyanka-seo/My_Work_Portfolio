@@ -11,7 +11,7 @@ Here, you’ll see:
 
   ## 3RI Experience work
 
-| Work Done | Work URL|
+| Work Done | Detalied Work URL|
 |-----------|---------|
 |**Web Site Audit**|Keyword Ranking Results|
 |**Keyword Research and Ranking**|[Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
