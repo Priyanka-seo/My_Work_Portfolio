@@ -10,8 +10,11 @@ Here, you’ll see:
 - Clear, easy-to-follow examples of my work style
 
   ## Real Projects – 3RI Experience
-1. [Web Site Audit – Keyword Ranking Results](link_here)
-2. **Keyword Research and Ranking** –[Keyword Research Startegy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)
-3. **Site-Architecture-Navigation-Audit** – [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)
+
+| Work Done | Work URL|
+|-----------|---------|
+|**Web Site Audit**|Keyword Ranking Results|
+|**Keyword Research and Ranking**|[Keyword Research Startegy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
+|**Site-Architecture-Navigation-Audit**| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
 
 
