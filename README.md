@@ -11,7 +11,7 @@ Here, you’ll see:
 
   ## Real Projects – 3RI Experience
 1. [Web Site Audit – Keyword Ranking Results](link_here)
-2. Keyword Research and Ranking –[Keyword Research Startegy and Keyword Ranking Results]([https://github.com/Priyanka-seo/Keyword-Ranking)
+2. Keyword Research and Ranking –[Keyword Research Startegy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)
 3. [Project Name 3 – Organic Growth Campaign](link_here)
 
 
