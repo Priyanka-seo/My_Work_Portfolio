@@ -9,7 +9,7 @@ Here, you’ll see:
 - Demo case studies that showcase my approach and problem-solving and knowldge about other Instrudies.
 - Clear, easy-to-follow examples of my work style
 
-  ## 3RI Experience work
+  ## 3RI Work Experience
 
 | Work Done | Detalied Work URL|
 |-----------|---------|
