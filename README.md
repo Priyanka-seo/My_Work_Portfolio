@@ -14,7 +14,7 @@ Here, you’ll see:
 | Work Done | Detalied Work URL|
 |-----------|---------|
 |**Web Site Audit**|Keyword Ranking Results|
-|**Keyword Research and Ranking**|[Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
+|**Keyword Ranking for course and Blog**|[Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
 |**Site-Architecture-Navigation-Audit**| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
 |**AI Overview Search Result**| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
 
