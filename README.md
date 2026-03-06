@@ -1,3 +1,20 @@
+<p align="Center">
+  <a href="#on-page-seo">
+    <img src="https://img.shields.io/badge/On--Page-SEO-2563EB?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="#off-page-seo">
+    <img src="https://img.shields.io/badge/Off--Page-SEO-DC2626?style=for-the-badge&logo=moz&logoColor=white" />
+  </a>
+  <a href="#technical-seo">
+    <img src="https://img.shields.io/badge/Technical-SEO-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="#local-seo">
+    <img src="https://img.shields.io/badge/Local-SEO-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 # My Work Portfolio
 
 Hello! 👋  
