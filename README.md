@@ -28,12 +28,12 @@ Here, you’ll see:
 
   ## 3RI Work Experience 
 
-| Work Done | Detalied Work URL|
-|-----------|---------|
+| Work Done | Description |  Detalied Work URL|
+|-----------|---------|-------|
 |**Web Site Audit**|Keyword Ranking Results|
-|**Keyword Ranking for course and Blog**|[Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
-|**Site-Architecture-Navigation-Audit**| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
-|**AI Overview Search Result**| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
+|**Keyword Ranking for course and Blog**|Process for finding and mapping target keywords and Keyword Result| [Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
+|**Site-Architecture-Navigation-Audit**| Complete structure & navigation audit framework| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
+|**AI Overview Search Result**| 3RI Technologies course Page and Blog AI Overview work & result| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
 |**GMB Optimization**|[GMB Optimization](https://github.com/Priyanka-seo/GMB-Optimization)
 
 
