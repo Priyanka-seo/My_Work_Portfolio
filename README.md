@@ -34,6 +34,6 @@ Here, you’ll see:
 |**Keyword Ranking for course and Blog**|Process for finding and mapping target keywords and Keyword Result| [Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
 |**Site-Architecture-Navigation-Audit**| Complete structure & navigation audit framework| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
 |**AI Overview Search Result**| 3RI Technologies course Page and Blog AI Overview work & result| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
-|**GMB Optimization**|[GMB Optimization](https://github.com/Priyanka-seo/GMB-Optimization)
+|**GMB Optimization**|Local Ranking Factor & 3RI Local Result [GMB Optimization](https://github.com/Priyanka-seo/GMB-Optimization)
 
 
