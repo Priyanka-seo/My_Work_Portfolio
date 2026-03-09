@@ -31,7 +31,7 @@ Here, you’ll see:
 | Work Done | Description |  Detalied Work URL|
 |-----------|---------|-------|
 |**Web Site Audit**|Keyword Ranking Results|
-|**On Page SEO**| On-Page SEO Strategy with result|[On-Page SEO Factors](https://github.com/Priyanka-seo/3RI--On-Page-SEO-work)
+|**On Page SEO**| On-Page SEO Strategy with result|[3RI-On-Page-SEO-work](https://github.com/Priyanka-seo/3RI--On-Page-SEO-work)
 |**Keyword Ranking for course and Blog**|Process for finding and mapping target keywords and Keyword Result| [Keyword Research Strategy and Keyword Ranking Results](https://github.com/Priyanka-seo/Keyword-Ranking)|
 |**Site-Architecture-Navigation-Audit**| Complete structure & navigation audit framework| [Site Architecture and Navigation Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit)|
 |**AI Overview Search Result**| 3RI Technologies course Page and Blog AI Overview work & result| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
