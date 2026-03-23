@@ -37,4 +37,3 @@ Here, you’ll see:
 |**AI Overview Search Result**| 3RI Technologies course Page and Blog AI Overview work & result| <a href="https://github.com/Priyanka-seo/AI-Overview" target="_blank">AI Overview</a>|
 |**GMB Optimization**|Local Ranking Factor & 3RI Local Result | [GMB Optimization](https://github.com/Priyanka-seo/GMB-Optimization)
 
-Great insight! Building a strong foundation is what truly sets apart a successful <a href="https://www.3ritechnologies.com/course/data-analytics-course-in-pune/" target="_blank">Data Analytics Course in Pune</a> Many learners jump straight into tools, but without core concepts, it’s hard to create real impact—this approach ensures skills that companies genuinely look for. 
